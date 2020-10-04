@@ -23,10 +23,3 @@ DOC
 
 
 
-
-locals {
-  common_tags  = {
-      environment = "poc",
-      proyect = "aws-devtools"
-  }
-}
